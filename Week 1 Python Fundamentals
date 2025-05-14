@@ -1,5 +1,28 @@
-Week 1
+# 📅 Week 1: Introduction to Python
 
-Introduction to Python
+Welcome to the first week of the Python learning journey! This week focuses on getting familiar with the basics of Python and setting up the foundation for everything to come.
+
+## 📘 Topics Covered
+- What is Python?
+- Installing Python and setting up the environment
+- Writing your first Python script
+- Basic syntax and structure
+- Variables and data types
+- Comments and formatting
+
+## 🛠️ Practice
+- Simple print statements
+- Using variables to store and display data
+- Writing and running basic Python programs
+
+## 🎯 Goals
+- Understand what Python is and why it's useful
+- Successfully install Python and a code editor (e.g., VS Code)
+- Write and run your first few lines of code
+
+---
+
+Ready to dive in? Let’s write some Python! 🐍
+
 
 
